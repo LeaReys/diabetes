@@ -1,4 +1,4 @@
-## diabetes
+## Diabetes Dataset for Beginners
 Выявление наличия диабета у пациентов/
 
 **DATA:** [Kaggle](https://www.kaggle.com/datasets/shantanudhakadd/diabetes-dataset-for-beginners)
